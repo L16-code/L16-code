@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm l16-code</h1>
+<h1 align="center">Hi 👋, I'm Lavish jain</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l16-code&label=Profile%20views&color=0e75b6&style=flat" alt="l16-code" /> </p>
