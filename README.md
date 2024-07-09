@@ -15,9 +15,7 @@
 
 - 💬 Ask me about **laravel , php , MERN , native , typescript**
 
-- 📫 How to reach me **lavishjjain2002@gmail.com**
-
-- 📄 Know about my experiences [Go through linkedIn Profile](Go through linkedIn Profile)
+- 📫 How to reach me **lavishjain2002@gmail.com**
 
 - ⚡ Fun fact **if You Think You are Bad, I am Your dad**
 
@@ -31,4 +29,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l16-code&show_icons=true&locale=en&layout=compact" alt="l16-code" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l16-code&show_icons=true&locale=en" alt="l16-code" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l16-code&" alt="l16-code" /></p>
 
